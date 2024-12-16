@@ -146,6 +146,7 @@
 			}
 , 			{
 				"box" : 				{
+					"films" : [  ],
 					"id" : "obj-1",
 					"maxclass" : "imovie",
 					"name" : "ozone.mov",
@@ -223,8 +224,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 150.0, 12.0, 100.0, 22.0 ],
-					"text" : "some_video.mp4"
+					"patching_rect" : [ 150.0, 12.0, 158.0, 22.0 ],
+					"text" : "C74:/media/jitter/ozone.mov"
 				}
 
 			}
